@@ -1,0 +1,1 @@
+Simple project to demo issue #7585 for repository espressif/arduino-esp32
